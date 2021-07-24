@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AEA3707A26ABE6A3003CB04B /* URLImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA3707926ABE6A3003CB04B /* URLImage.swift */; };
 		AEBFF7BB26A436C200D14248 /* Q1_SwidtUI_WebAPIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEBFF7BA26A436C200D14248 /* Q1_SwidtUI_WebAPIApp.swift */; };
 		AEBFF7BD26A436C200D14248 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEBFF7BC26A436C200D14248 /* ContentView.swift */; };
 		AEBFF7BF26A436C300D14248 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEBFF7BE26A436C300D14248 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AEA3707926ABE6A3003CB04B /* URLImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = URLImage.swift; sourceTree = "<group>"; };
 		AEBFF7B726A436C200D14248 /* Q1_SwidtUI_WebAPI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Q1_SwidtUI_WebAPI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEBFF7BA26A436C200D14248 /* Q1_SwidtUI_WebAPIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1_SwidtUI_WebAPIApp.swift; sourceTree = "<group>"; };
 		AEBFF7BC26A436C200D14248 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				AEBFF7BA26A436C200D14248 /* Q1_SwidtUI_WebAPIApp.swift */,
 				AEBFF7BC26A436C200D14248 /* ContentView.swift */,
+				AEA3707926ABE6A3003CB04B /* URLImage.swift */,
 				AEBFF7BE26A436C300D14248 /* Assets.xcassets */,
 				AEBFF7C326A436C300D14248 /* Info.plist */,
 				AEBFF7C026A436C300D14248 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEBFF7BD26A436C200D14248 /* ContentView.swift in Sources */,
+				AEA3707A26ABE6A3003CB04B /* URLImage.swift in Sources */,
 				AEBFF7BB26A436C200D14248 /* Q1_SwidtUI_WebAPIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
